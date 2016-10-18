@@ -1,1 +1,4 @@
 # practicals
+dhruvit
+mehta 
+fybsc
